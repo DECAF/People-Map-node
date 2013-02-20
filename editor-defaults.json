@@ -1,0 +1,12 @@
+{
+  "name"      : "Dein Name",
+  "statement" : "Hier könnt ihr mich finden!",
+  "url"       : "http://hierfindestdumich.de",
+  "locations" : [
+    {
+      "latitude"    : 27.985818,
+      "longitude"   : 86.923596,
+      "description" : "Ganz weit draußen"
+    }
+  ]
+}
